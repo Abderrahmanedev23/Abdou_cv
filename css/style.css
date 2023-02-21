@@ -20,7 +20,8 @@ body{
 }
 .resume-box{
 	width: 800px;
-	height: 100%;
+   	min-width: 800px;	
+	height: 1000px;
 	margin: 100px auto;
 	background: var(--white);
 	box-shadow: 5px 21px 20px 20px #3d3f4238;
