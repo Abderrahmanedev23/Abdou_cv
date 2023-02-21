@@ -114,9 +114,9 @@ body{
 .right-section{
 	padding: 40px 30px;
     background: var(--white);
-    width: 550px;
+    width: 68%;
     float: left;
-    height: 1000px;
+    height: 100%;
 }
 .right-heading img{
 	background: #3d3f42;
